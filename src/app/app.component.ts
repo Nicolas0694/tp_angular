@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'assignment-app';
+  title = 'Appplication de gestion des devoirs de Nicolas DRISSET';
 }
